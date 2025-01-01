@@ -1,4 +1,4 @@
-Laravel 11 E-Commerce Application
+Laravel 11 E-Commerce Application Hello World
 Project Overview
 
 This is a simple e-commerce application built using Laravel 11. It includes functionalities for managing products and orders, with user authentication to secure the application.
